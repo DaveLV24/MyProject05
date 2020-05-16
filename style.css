@@ -8,14 +8,14 @@ header{
     color: red;
     text-align: center;
     background: url('img/bbq.jpg') no-repeat center;
-ul {
-        display: -ms-inline-grid; /* Puts the `li` in a row */
-        
 }
 
+ul{
+    display: -ms-inline-grid;
+}
+    
 li {
         width:321px;
         margin-left:auto;
         margin-right:auto;
         height: auto
-        
