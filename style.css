@@ -1,9 +1,15 @@
 
-h2{
-    .font
-    font-family: fantasy;
+html{
+    font-family: sans-serif;
+}
+header{
+    font-size: 77px;
+    
+}
+h2 {
+    font-family:sans-serif;
 }
 
-body{
+.bodyy {
     background:url(img/background.jpg) no-repeat center;
 }
