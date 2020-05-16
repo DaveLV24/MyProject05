@@ -1,2 +1,2 @@
 # MyProject05
-Demonstration for project web camp 05
+RCS Homework Week 1
