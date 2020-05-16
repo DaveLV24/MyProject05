@@ -12,8 +12,10 @@ header{
 
 ul{
     display: -ms-inline-grid;
+    width: 70%;
+    margin: auto;
 }
-    
+
 li {
         width:321px;
         margin-left:auto;
